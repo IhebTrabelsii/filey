@@ -92,3 +92,9 @@ typings/
 out/
 resources/ffmpeg/*.exe
 .kilo/
+
+# junk
+*.docx
+copy
+dir
+mkdir
